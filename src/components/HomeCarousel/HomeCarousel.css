@@ -1,0 +1,6 @@
+.carousel-caption {
+    background-color: rgba(33, 33, 44, 0.4);
+    width: fit-content;
+    left: 35%;
+    padding: 20px;
+}
